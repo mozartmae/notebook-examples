@@ -1,0 +1,6 @@
+main: "Magics-Overview.ipynb"
+title: "ECMWF's meteorological plotting"
+organization: "lightside"
+team: "protected-team"
+description: "Magics is the latest generation of the ECMWF's meteorological plotting software. It offers an easy way to visualise data coded in meteorological formats such as GRIB, NetCDF and BUFR."
+importPath: "./visualisation"
